@@ -1,0 +1,11 @@
+This week is the last week to go slow, and the best time to review anything do not understand.
+
+iphone = new MobilePhone("Apple", false, 1, "ATT");
+this iphone is the reference
+("Apple", false, 1, "ATT") this is the object
+
+the value of the object is a reference and a reference is a address
+If the fuction has a address as a parameter, it can change in the function
+
+Big O, O(n), O(1)..
+the o is called "order of"
