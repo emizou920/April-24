@@ -9,3 +9,7 @@ If the fuction has a address as a parameter, it can change in the function
 
 Big O, O(n), O(1)..
 the o is called "order of"
+
+List<Integer> list = new ArrayList<>();
+list.add(10);
+
